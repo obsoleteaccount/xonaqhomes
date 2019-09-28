@@ -64,4 +64,4 @@ gem 'geocoder', '~> 1.4.9'
 gem 'jquery-ui-rails', '~>5.0'
 gem 'ransack', '~>1.7'
 
-ruby "2.3.4"
+ruby "2.6.2"
