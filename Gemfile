@@ -67,4 +67,4 @@ gem 'carrierwave'
 gem 'cloudinary'
 gem 'devise'
 
-#ruby "2.6.2"
+ruby "2.4.7"
