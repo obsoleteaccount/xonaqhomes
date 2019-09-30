@@ -55,7 +55,7 @@ end
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'bootstrap-sass', '~> 3.4.1'
-gem 'devise', '~> 4.2'
+#gem 'devise', '~> 4.2'
 gem 'toastr-rails', '~> 1.0'
 gem 'omniauth', '~>1.6'
 gem 'omniauth-facebook', '~>4.0'
@@ -63,5 +63,8 @@ gem 'paperclip', '~>5.1.0'
 gem 'geocoder', '~> 1.4.9'
 gem 'jquery-ui-rails', '~>5.0'
 gem 'ransack', '~>1.7'
+gem 'carrierwave'
+gem 'cloudinary'
+gem 'devise'
 
-ruby "2.6.2"
+#ruby "2.6.2"

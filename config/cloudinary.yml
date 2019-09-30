@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: xonaq
+  api_key: '286873695459922'
+  api_secret: wgGmfXek3NoRarFd5B7ib2uiU_s
+  enhance_image_tag: true
+  static_file_support: false
+production:
+  cloud_name: xonaq
+  api_key: '286873695459922'
+  api_secret: wgGmfXek3NoRarFd5B7ib2uiU_s
+  enhance_image_tag: true
+  static_file_support: true
+test:
+  cloud_name: xonaq
+  api_key: '286873695459922'
+  api_secret: wgGmfXek3NoRarFd5B7ib2uiU_s
+  enhance_image_tag: true
+  static_file_support: false
